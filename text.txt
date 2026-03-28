@@ -1,0 +1,65 @@
+🧠 شنو خاصك تتعلم (بالترتيب)
+1. أساسيات Node.js
+
+ركز على:
+
+fs (باش تقرا الملفات)
+readline (input من console)
+process
+
+🔍 قلب على:
+
+node js fs read file
+node js readline example
+2. كيفاش تشغّل code (Dynamic execution)
+
+هادشي مهم بزاف:
+
+eval()
+Function constructor
+
+🔍 قلب على:
+
+javascript eval vs new Function
+run user code nodejs
+3. التعامل مع الملفات (باش تدير بزاف ديال questions)
+
+تعلم:
+
+تقرا folder كامل
+تحمل questions بشكل dynamic
+
+🔍:
+
+node js read directory fs.readdir
+load multiple js files nodejs
+4. Random system 🎲
+
+باش تعطي questions بشكل random:
+
+const random = arr[Math.floor(Math.random() * arr.length)];
+
+🔍:
+
+javascript random array element
+5. Structure مزيان للمشروع
+
+تعلم كيفاش تنظم الكود:
+
+modules (require / module.exports)
+تقسيم الكود (runner / quizzes)
+
+🔍:
+
+node js modules explained
+6. مقارنة النتائج (Testing logic)
+
+تعلم:
+
+كيفاش تدير tests
+كيفاش تتحقق من functions
+
+🔍:
+
+javascript test function output
+unit testing basics javascript
