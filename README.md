@@ -61,6 +61,6 @@ Feel free to fork and improve the project!
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, give it a star ⭐ on GitHub!
